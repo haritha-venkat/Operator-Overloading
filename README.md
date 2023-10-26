@@ -21,7 +21,7 @@ print the program.
  
 ## Program:
 
-python
+```python
 using System;
 namespace ConsoleApp8
 {
@@ -61,7 +61,7 @@ namespace ConsoleApp8
        }
    }
 }
-
+```
 
 ## Output:
  
